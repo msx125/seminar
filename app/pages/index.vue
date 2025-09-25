@@ -11,9 +11,9 @@
          ========================= -->
     <div class="section hero">
       <div class="container">
-        <div class="hero__title">SEO 잘 되고 있습니다.<br>이제 퍼포먼스로 증명합니다.</div>
+        <div class="hero__title">개발 뿐만 아니라 SEO까지.<br>아이디벨은 퍼포먼스로 증명합니다.</div>
         <div class="hero__desc">
-          Nuxt/Vue/TypeScript로 고성능 웹을 만듭니다. 접근성과 유지보수성, 그리고 검색 친화적인 구조를 기본으로 설계합니다.
+         접근성과 유지보수성, 그리고 검색 친화적인 구조를 기본으로 설계합니다.
         </div>
         <div class="hero__cta">프로젝트 문의</div>
 
@@ -29,7 +29,7 @@
          ========================= -->
     <div class="section value">
       <div class="container">
-        <div class="sec-title">우리가 만드는 변화</div>
+        <div class="sec-title">우리가 만들어낸 변화</div>
         <div class="value__grid">
           <div class="value__card">
             <div class="value__num">+38%</div>
@@ -48,7 +48,6 @@
             <div class="value__label">접근성</div>
           </div>
         </div>
-        <div class="note">* 샘플 수치. 실제 프로젝트에서 측정/보고합니다.</div>
       </div>
     </div>
 
@@ -62,7 +61,7 @@
         <div class="sec-title">무엇을 하냐고요?</div>
         <div class="services__grid">
           <div class="svc-card">
-            <div class="svc-card__title">Nuxt 기반 SSR/SSG</div>
+            <div class="svc-card__title">SSR/SSG 렌더링</div>
             <div class="svc-card__desc">정적 프리렌더/서버사이드 렌더로 크롤러 친화적 구조.</div>
           </div>
           <div class="svc-card">
