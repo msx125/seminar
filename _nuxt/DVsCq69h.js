@@ -1,0 +1,1 @@
+import{e as c,m as u,n as r,q as i,v as p,x as _,u as l,A as m,o as f,Q as d}from"#entry";const k=c({__name:"default",setup(x){const{public:{siteUrl:o}}=u(),t=r(),n=i()?.options?.history?.base??"/",s=p(()=>_(o,n,t.path));return l({titleTemplate:e=>e?`${e} | 아이디벨`:"아이디벨",link:[{rel:"canonical",href:s}]}),(e,R)=>{const a=d;return f(),m(a)}}});export{k as default};
